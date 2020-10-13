@@ -1,6 +1,6 @@
 # getter-setter-constructor-php README
 
-This extension generates constructor, getter and setter for PHP programs.
+(BAD, DON'T USE YET) This extension generates constructor, getter and setter for PHP programs.
 
 ## Features
 
